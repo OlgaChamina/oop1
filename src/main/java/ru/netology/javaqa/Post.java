@@ -1,0 +1,12 @@
+package ru.netology.javaqa;
+
+public class Post {
+    public FormDate birthday;
+    public String name;
+    public String passport;
+    public String patronymic;
+    public String phone;
+    public String surename;
+    public boolean subscription;
+
+}
